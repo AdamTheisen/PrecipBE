@@ -6,8 +6,6 @@ import glob
 import matplotlib.pyplot as plt
 import json
 import xarray as xr
-import numpy as np
-import sys
 from itertools import accumulate
 
 # Read in ARM Live Data Webservice Token and Username
